@@ -10,4 +10,4 @@ redirect_from:
 
 Biography
 ======
-Fan JIANG is a 2rd-year Ph.D. student in the Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology (HKUST). He is one of the members of Big Data System Lab & OPTICS Lab, supervised by Prof. Jiang XU. His research interests include modeling and simulation of multicore systems, program locality analysis, and hardware/software codesign.
+Fan JIANG is a 2rd-year Ph.D. student in the Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology (HKUST). He is one of the members of Big Data System Lab & OPTICS Lab, supervised by Prof. [Jiang XU](https://eexu.home.ece.ust.hk). His research interests include modeling and simulation of multicore systems, program locality analysis, and hardware/software codesign.
