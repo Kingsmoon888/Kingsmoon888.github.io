@@ -25,6 +25,3 @@ Education
   * Zhejiang University 
 
  
-Teaching Assistant
-======
-ELEC 2350 Introduction to Computer Organization and Degisn
