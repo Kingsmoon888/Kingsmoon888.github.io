@@ -11,9 +11,9 @@ title                    : "Yue WANG"
 title_separator          : "-"
 name                     : &name "Yue WANG"
 description              : &description "personal description"
-url                      : https://fjiangust.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kingsmoon888.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fjiangust/fjiangust.github.io"
+repository               : "Kingsmoon888/Kingsmoon888.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fan JIANG"
+  name             : "Yue WANG"
   avatar           : "fan.jpeg"
-  bio              : "Ph.D. Candidate @HKUST"
-  location         : "Hong Kong"
+  bio              : "Ph.D. Candidate @HKUST-GZ"
+  location         : "China"
   employer         :
   pubmed           : 
   googlescholar    :
-  email            : "fjiangad@connect.ust.hk"
+  email            : "wy.keepmoving@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
