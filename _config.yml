@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fan JIANG"
+title                    : "Yue WANG"
 title_separator          : "-"
-name                     : &name "Fan JIANG"
+name                     : &name "Yue WANG"
 description              : &description "personal description"
 url                      : https://fjiangust.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
